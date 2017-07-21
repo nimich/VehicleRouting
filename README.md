@@ -10,10 +10,10 @@ For more about the problem see: https://en.wikipedia.org/wiki/Vehicle_routing_pr
 
 Tabu search has the flexibility to overcome local minimum so this is why we expect to be the beter strategy. In the next two images we can see the initial greedy solution graphicxally represented and the final solution the came from Tabu search. 
 
-Initial greedy solution. We can see that we have many cross edges edges that are crossed and are indication that better solution exist.
+Initial greedy solution. We can see that we have many cross edges (edges that are crossed) and are indications that better solutions exist.
 
 ![alt text](https://github.com/nimich/VehicleRouting/blob/master/Greedy_Solution.png)
 
-Final solution from TabU search. Most of the cross edges have been eliminated but there are still a few indication that we don't find the absolute optimal solution
+Final solution from TabU search where most of the cross edges have been eliminated.
 
 ![alt text](https://github.com/nimich/VehicleRouting/blob/master/TABU_Solution.png)
