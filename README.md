@@ -11,3 +11,7 @@ This code prints the solution from each strategy in console and creates 4 png im
 
 
 
+![alt text]https://github.com/nimich/VehicleRouting/blob/master/Greedy_Solution.png)
+
+
+![alt text](https://github.com/nimich/VehicleRouting/blob/master/TABU_Solution.png)
